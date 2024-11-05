@@ -1,14 +1,14 @@
 # Recursive Password Generator
 <!--Remove the below lines and add yours -->
-Generates a random password with the length specified using recursivity
+Generates a strong random password after specifying the number of uppercase letters, lowercase letters, numbers and special symbols the users wants present in their password.
 
 ### Prerequisites
 <!--Remove the below lines and add yours -->
-None
+None. Just Enjoy!!
 
 ### How to run the script
 <!--Remove the below lines and add yours -->
-Execute `python3 generator.py`
+Execute the file in a Python compiler
 
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
@@ -16,5 +16,5 @@ Execute `python3 generator.py`
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-[Erfan Saberi](https://github.com/erfansaberi)
+[Amenuveve Kwame Tsetse](https://github.com/aktsetse)
 "# Recursive-Password-Generator" 
